@@ -1,0 +1,3 @@
+Start Homework,High
+Pack Luggage,Low
+Drive to Seatac Saturday,Medium
